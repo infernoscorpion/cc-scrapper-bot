@@ -13,8 +13,8 @@ import pymongo
 
 
 '''
-This bot is developed by @BARROSOE, it is the first version deployed for public scraping,
-now it is an obsolete version for my work environment, that's why I post it for free.
+This bot is developed by BARROSOE, it is the first version deployed for public scraping,
+now it is an obsolete version for my work environment.
 
 
 ---------------Deploy on Heroku
