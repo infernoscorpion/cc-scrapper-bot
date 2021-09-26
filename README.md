@@ -5,3 +5,4 @@
 <h3 align="center">Fork and Enjoy 💫 This Repo</h3>
 
 ---
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/infernoscorpion/cc-scrapper-bot.git)
